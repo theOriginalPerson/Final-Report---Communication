@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+    background-image: url('AI-wallpaper.jpg');
+}
+h1 {
+    text-align: center;
+}
+a {
+    color: white;
+    text-align: center;
+}
+
+a:hover {
+    color: violet;
+    cursor: pointer;
+}
+
+a:active {
+    color: turquoise;
+}
