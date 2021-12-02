@@ -15,7 +15,6 @@ h1 {
 a:hover {
     color: violet;
     cursor: pointer;
-    text-decoration: none;
 }
 
 a:active {
@@ -25,6 +24,5 @@ a:active {
 a {
     color: white;
     text-align: center;
-    text-decoration: none;
 }
 
