@@ -1,13 +1,13 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
-    color: white;
+    background-color: black;
     background-image: url('AI-wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 h1 {
-    text-align: center;
-}
-a {
     color: white;
     text-align: center;
 }
@@ -15,8 +15,16 @@ a {
 a:hover {
     color: violet;
     cursor: pointer;
+    text-decoration: none;
 }
 
 a:active {
     color: turquoise;
 }
+
+a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
